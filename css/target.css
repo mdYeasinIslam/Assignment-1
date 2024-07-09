@@ -1,0 +1,27 @@
+#target{
+    width: 90%;
+    margin: auto;
+}
+#target >header{
+    width: 70%;
+     text-align: center;
+    padding: 0 30px;
+     margin: 60px auto;
+}
+#learnig_topic{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    gap: 10px;
+}
+#learnig_topic>div{
+    padding: 40px;
+border-radius: 20px;
+}
+#learnig_topic>.html{
+        background-color: #FF4C1E0D;
+}#learnig_topic>.css{
+        background-color: #004CE80D;
+}#learnig_topic>.js{
+        background-color: #FFDF000D;
+}
