@@ -1,0 +1,27 @@
+#support {
+    width: 80%;
+    height: 290px;
+    margin: 80px auto;
+    padding: 50px 0;
+    background-image: url("/assets/handshake.jpg");
+    text-align: center;
+    color: white;
+
+}
+#support > p{
+    width: 50%;
+    margin: auto;
+}
+#support>input {
+    display: inline-block;
+    width: 548px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top:70px;
+}
+
+#support>button {
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+}
