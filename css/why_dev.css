@@ -1,0 +1,48 @@
+/* heding */
+#why_dev {
+    width: 90%;
+    margin: auto;
+    background-color: #0D132105;
+    padding: 70px 0px;
+    margin-bottom: 70px;
+}
+
+.why_dev_details {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 60px;
+    /* padding: 0 50px; */
+}
+
+#why_dev>div>h1 {
+    font-size: 32px;
+    font-weight: 800;
+    letter-spacing: 0%;
+    margin-top: 0;
+}
+
+/* article */
+.article-1 {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    margin-bottom: 33px;
+    background-image: linear-gradient(to left, #FFFFFF 100%, #FFFFFF 0%);
+
+}
+
+.article-1>h1 {
+    font-size: 24px;
+    font-weight: 700;
+
+}
+
+.article-1>div>p {
+    margin: 40px 0;
+}
+
+.article-1>div>button {
+    width: 171px;
+    height: 47px;
+}
