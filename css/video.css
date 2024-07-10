@@ -2,13 +2,11 @@
     width: 90%;
     margin: auto;
     text-align: center;
-    /* padding: 0 50px; */
 }
 #video_part >header{
     width: 70%;
-
-    padding: 0 30px;
-     margin: 60px auto;
+    padding: 0 30px 40px 30px ;
+    margin: 10px auto;
 }
 #video_part >div{
  width: 100%;
